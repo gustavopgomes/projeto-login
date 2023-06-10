@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html, body{
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    background-color: #5f2c82;
+}
+div#imagem{
+    background-image: url(../imagens/pexels-hatice-baran-16048295.jpg);
+    background-size: cover;
+}
